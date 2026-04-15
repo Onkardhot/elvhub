@@ -1,0 +1,22 @@
+{
+  "/(auth)/login/page": "/login",
+  "/(auth)/register/page": "/register",
+  "/(dashboard)/ai-assistant/page": "/ai-assistant",
+  "/(dashboard)/community/page": "/community",
+  "/(dashboard)/dashboard/page": "/dashboard",
+  "/(dashboard)/downloads/page": "/downloads",
+  "/(dashboard)/tools/boq-generator/page": "/tools/boq-generator",
+  "/(dashboard)/tools/cctv-calculator/page": "/tools/cctv-calculator",
+  "/(dashboard)/tools/datasheet-browser/page": "/tools/datasheet-browser",
+  "/(dashboard)/tools/diagram-generator/page": "/tools/diagram-generator",
+  "/(dashboard)/tools/page": "/tools",
+  "/(dashboard)/tools/storage-calculator/page": "/tools/storage-calculator",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/ai-assistant/route": "/api/ai-assistant",
+  "/api/auth/[...auth]/route": "/api/auth/[...auth]",
+  "/api/datasheet/route": "/api/datasheet",
+  "/api/posts/route": "/api/posts",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
